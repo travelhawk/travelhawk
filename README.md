@@ -2,11 +2,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Cloud+%26+AI+Services;Mixed+Reality+%7C+Next.js+%7C+Python+%7C+C%23;Crafting+scalable+solutions." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=600&lines=AI+Orchestration+Builder;Software+Engineer+%7C+Cloud+%26+AI+Services;Mixed+Reality+%7C+Next.js+%7C+Python+%7C+C%23;Crafting+scalable+solutions." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://falktechlab.de"><img src="https://img.shields.io/badge/Falk%20Tech%20Lab-falktechlab.de-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Falk Tech Lab"></a>
   <a href="https://www.linkedin.com/in/michael-falk-info"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Based%20in-Oldenburg%2C%20Germany-2ea44f?style=for-the-badge" alt="Location">
 </p>
@@ -15,13 +16,14 @@
 
 ## 🙋 About Me
 
-I'm a software engineer from Oldenburg, Germany, who loves turning complex problems into products people actually enjoy using — from cloud platforms and AI-powered tools to immersive Mixed Reality experiences.
+I'm a software engineer and **AI orchestration builder** from Oldenburg, Germany. I design systems where AI agents, automations, and humans work together — and turn complex problems into products people actually enjoy using, from cloud platforms and AI-powered tools to immersive Mixed Reality experiences.
 
+- 🤖 **AI Orchestration** — I build multi-agent systems, agentic workflows, and automations that connect LLMs to real business processes
+- 🚀 Founder of **[Falk Tech Lab](https://falktechlab.de)** — AI and digital solutions for small businesses: if it's repetitive, we can probably automate it
 - 💼 Software developer at **Humatects GmbH** — human-centered software for complex systems
-- 🚀 Building **Falk Tech Lab** — pragmatic digital solutions for small businesses
-- 🤖 Deep into **AI agents & developer tooling** — benchmarking, packaging, and shipping agentic workflows
+- 🛠️ Building **open-source agent tooling** — benchmarking, packaging, and shipping agentic workflows
 - 🥽 Background in **Mixed Reality & Unity** — I like it when software leaves the flat screen
-- 💬 Ask me about **Next.js, Python, C#, cloud architecture, or AI agents**
+- 💬 Ask me about **AI agents & orchestration, Next.js, Python, C#, or cloud architecture**
 
 ## 🛠️ Tech Stack
 
@@ -50,10 +52,12 @@ I'm a software engineer from Oldenburg, Germany, who loves turning complex probl
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-**AI & XR**
+**AI Orchestration & XR**
 
 <p>
   <img src="https://img.shields.io/badge/AI%20Agents-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Multi--Agent%20Workflows-8A2BE2?style=for-the-badge" alt="Multi-Agent Workflows">
+  <img src="https://img.shields.io/badge/LLM%20Integration-10A37F?style=for-the-badge" alt="LLM Integration">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/Mixed%20Reality-5C2D91?style=for-the-badge" alt="Mixed Reality">
 </p>
@@ -68,6 +72,16 @@ I'm a software engineer from Oldenburg, Germany, who loves turning complex probl
 | 🗺️ [zip-assignment-tool](https://github.com/travelhawk/zip-assignment-tool) | Enterprise tool mapping sales reps to zip-code regions, with Microsoft Entra ID SSO | TypeScript |
 | 🔤 [fontshare-bulk-downloader](https://github.com/travelhawk/fontshare-bulk-downloader) | CLI to bulk-download and install fonts from fontshare.com | Python |
 
+## 🧩 Work With Me
+
+Not a developer? No problem — this part is for you. Through **[Falk Tech Lab](https://falktechlab.de)** I help businesses put AI to work:
+
+- 🔗 **AI orchestration** — connecting AI agents, tools, and your existing systems into workflows that run reliably
+- ⚙️ **Process automation** — turning repetitive manual work (emails, documents, data entry) into automated pipelines
+- 🧠 **AI consulting & prototyping** — finding out where AI actually pays off in your business, then building it
+
+👉 Curious what that could look like for you? Visit **[falktechlab.de](https://falktechlab.de)** or message me on [LinkedIn](https://www.linkedin.com/in/michael-falk-info).
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -77,7 +91,8 @@ I'm a software engineer from Oldenburg, Germany, who loves turning complex probl
 
 ## 🤝 Let's Connect
 
+- 🌐 [falktechlab.de](https://falktechlab.de) — AI orchestration & automation for your business
 - 💼 [LinkedIn — Michael Falk](https://www.linkedin.com/in/michael-falk-info)
-- 💡 Open to collaborating on **AI agent tooling, developer experience, and XR projects**
+- 💡 Open to collaborating on **AI orchestration, agent tooling, developer experience, and XR projects**
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos or reach out!</i></p>
