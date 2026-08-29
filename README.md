@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://falktechlab.de"><img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20for%20new%20projects-Software%20%C2%B7%20Automation%20%C2%B7%20AI-success?style=for-the-badge" alt="Available for projects"></a>
+  <a href="https://falktechlab.de"><img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20for%20new%20projects-Software%20%C2%B7%20Automation%20%C2%B7%20AI-2ea44f?style=for-the-badge" alt="Available for projects"></a>
 </p>
 
 ---
