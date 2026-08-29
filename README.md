@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=650&lines=AI+Orchestration+Builder;Custom+Software+%7C+Automation+%7C+AI;Next.js+%7C+Python+%7C+C%23+%7C+Azure;3D+%26+Mixed+Reality;Crafting+scalable+solutions." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1400&center=true&vCenter=true&width=700&lines=I+build+custom+software%2C+automation+%26+AI;Less+manual+work.+More+time+for+the+actual+business.;AI+Orchestration+%C2%B7+Multi-Agent+Systems;Next.js+%7C+Python+%7C+C%23+%7C+Azure;3D+%26+Mixed+Reality" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 🙋 About Me
 
-I'm a software engineer and **AI orchestration builder** from Oldenburg, Germany. I design systems where AI agents, automations, and humans work together — and turn complex problems into products people actually enjoy using, from cloud platforms and AI-powered tools to immersive 3D and Mixed Reality experiences.
+I'm a software engineer from Oldenburg, Germany. I build **custom software, automations, and AI solutions** that take repetitive work off people's plates — and turn complex problems into products people actually enjoy using, from cloud platforms and AI-powered tools to immersive 3D and Mixed Reality experiences.
 
 - 🤖 **AI Orchestration** — I build multi-agent systems, agentic workflows, and automations that connect LLMs to real business processes
 - 🚀 Founder of **[Falk Tech Lab](https://falktechlab.de)** — custom software, automation, and AI for businesses: if it's repetitive, we can probably automate it
