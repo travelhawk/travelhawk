@@ -95,8 +95,7 @@ Not a developer? No problem — this part is for you. Through **[Falk Tech Lab](
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=travelhawk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travelhawk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165">
+  <img src="https://streak-stats.demolab.com?user=travelhawk&theme=tokyonight&hide_border=true" alt="GitHub streak stats" height="180">
 </p>
 
 ## 🤝 Let's Connect
