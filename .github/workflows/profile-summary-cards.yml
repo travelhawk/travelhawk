@@ -1,0 +1,36 @@
+name: Profile Summary Cards
+
+# Regenerates the GitHub stats cards into this repo, so the profile README
+# does not depend on a third-party rendering service staying online.
+
+on:
+  schedule:
+    # daily at 04:37 UTC
+    - cron: "37 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # Third-party action, pinned to a reviewed commit instead of the mutable
+      # `release` branch. Bump this SHA deliberately after reviewing changes:
+      # https://github.com/vn7n24fzkq/github-profile-summary-cards/commits/release
+      - uses: vn7n24fzkq/github-profile-summary-cards@09ba4dde3f9b05828cb99553561db3f4ff07703f
+        env:
+          # Falls back to the built-in token when no PAT secret is configured.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 1
+          AUTO_PUSH: true
