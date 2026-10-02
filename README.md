@@ -95,8 +95,20 @@ Not a developer? No problem — this part is for you. Through **[Falk Tech Lab](
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=travelhawk&theme=tokyonight&hide_border=true" alt="GitHub streak stats" height="180">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details and contribution graph" width="840">
 </p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" height="200">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" height="200">
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Most productive time of day" height="200">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commits by language" height="200">
+</p>
+
+<sub align="center"><i>Cards regenerate daily via GitHub Actions — no third-party service required.</i></sub>
 
 ## 🤝 Let's Connect
 
