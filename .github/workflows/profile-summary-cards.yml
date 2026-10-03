@@ -34,3 +34,6 @@ jobs:
           BRANCH_NAME: "main"
           UTC_OFFSET: 1
           AUTO_PUSH: true
+          # Only the theme the README actually uses. Leaving this empty
+          # generates all 65 themes (325 files) on every run.
+          THEME: "tokyonight"
